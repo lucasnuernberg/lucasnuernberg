@@ -6,6 +6,5 @@
 ## About me
 I'm a {backend, frontend} developer.
 
-- 🔭 I’m currently working on Tintas Farben 
 - 🌱 I’m currently learning NodeJs, AngularJs, NextJs, etc...
 - https://lucasnuernberg.vercel.app
