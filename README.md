@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-nuernberg-a0951a1b3/)](https://www.linkedin.com/in/lucas-nuernberg-a0951a1b3/)
 
 ## About me
-I got to know a software development area in 2019 and since then I have and developed several projects that can be seen here on my github. In 2021 I joined the Faculty of Software Analysis and Development.
+I got to know the software development area in 2019 and since then I have been studying and developing several projects that can be seen here on my github. In 2021 I joined the faculty of Software Analysis and Development.
 ----
 Conheci a área de desenvolvimento de software em 2019 e desde então tenho estudado e desenvolvido vários projetos que podem ser vistos aqui no meu github. Em 2021 ingressei na faculdade de Análise e Desenvolvimento de Software.
 ----
